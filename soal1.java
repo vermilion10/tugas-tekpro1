@@ -4,6 +4,6 @@ public class soal1 {
         byte angka1 = 125;
         byte angka2 = 6;
         byte hasil = (byte)(angka1+angka2);
-        System.out.println("Hasilnya "+hasil);
+        System.out.println("Hasil 1 "+hasil);
     }
 }
