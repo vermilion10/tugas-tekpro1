@@ -1,7 +1,7 @@
 /**
  * This program displays a greeting for the reader
- * @version 1.0 2025-02-10
- * @author Fathin Yassarahman 
+ * @version 1.30 2014-02-27
+ * @author Cay Horstmann
  */
 public class Welcome {
     public static void main(String[] args) {
